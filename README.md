@@ -7,7 +7,8 @@ Welcome to Analytix! Analytix is a multi-faceted software system designed to ind
 If you've ever searched the web for a particular service, you'd quickly find that there is no existing way to quantify and compare services without doing your respective research against both privately-owned and publicly-owned firms of varying sizes. Some of problems include:
 
 1. Information can be easily obscured - there is no straightforward way of quantifying and comparing services without doing laborious research
-2. It is
+2. Getting in contact with vendors and setting up appointments can be inefficient with respect to time and convenience.
+3. 
 
 Analytix aims to tackle these problems head on by providing a platform by which users can interactively (and proactively) make informed decisions about services they need.
 
